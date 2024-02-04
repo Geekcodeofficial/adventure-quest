@@ -1,9 +1,5 @@
 # AdventureQuest - Text-Based RPG
 
-![Alt Text](https://im.ezgif.com/tmp/ezgif-1-313557d1f8.gif)
-
-## Description
-
 AdventureQuest is a text-based RPG where you embark on a journey, battle monsters, and collect treasures.
 
 ## How to Play
