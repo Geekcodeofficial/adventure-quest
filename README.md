@@ -23,14 +23,6 @@ AdventureQuest is a text-based RPG where you embark on a journey, battle monster
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors
-
-- [Your Name]
-
 ## Issues and Contributions
 
 Please report any issues or contribute to the project on [GitHub Issues](https://github.com/your-username/adventure-quest/issues).
