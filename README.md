@@ -1,5 +1,7 @@
 # AdventureQuest - Text-Based RPG
 
+![](https://github.com/Geekcodeofficial/adventure-quest/blob/main/gif-readme.gif)
+
 AdventureQuest is a text-based RPG where you embark on a journey, battle monsters, and collect treasures.
 
 ## How to Play
